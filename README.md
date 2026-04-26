@@ -1,3 +1,5 @@
-![Elvis](elvis-copy. png)
-![Elvis](chips-copy.png)
-![Elvis](salon-copy.png)
+![Elvis](elvis-copy.png)
+
+![Muse](chips-copy.png)
+
+![Sarah](salon-copy.png)
